@@ -1,1 +1,1 @@
-this a comment for django develope
+this is a comment for django programming
